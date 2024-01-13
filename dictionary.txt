@@ -20,10 +20,11 @@ Schloss 		|Lock OR Castle/Palace	|
 wettbewerbsfaehig 	|Competitive		|
 Mehlhase 		|Flour bunny?		|
 Gebaeck			|Pastries		|
-Baeckerei 		|Backery		|
+Baeckerei 		|Bakery			|
 Hund 			|Dog			|
 Doener 			|Doner?			|
 Apfelkuchen 		|Apple cake		|
 Schloss 		|Lock OR Castle/Palace	|
 Eltz			|Eltz (Noble family?)	|
+-------------------------------------------------
 -------------------------------------------------
