@@ -1,0 +1,29 @@
+Translation of German words to English words (for those that translate):
+-------------------------------------------------
+German			|English		|
+-------------------------------------------------
+Raesfeld 		|Raesfeld		|
+Flughafen 		|Airport		|
+Berlin 			|Berlin			|
+Bratwurst 		|Bratwurst		|
+Hauptstrasse 		|Main road		|
+Brot 			|Bread			|
+Klimaanlage 		|Air conditioner	|
+Rammstein 		|Rammstein		|
+Porsche			|Porsche		|
+BMW 			|Bavarian Motor Works	|
+Biergarten 		|Beer garden		|
+Ratskeller 		|Ratskeller		|
+Dirndel 		|Dirndl (dress/skirt)	|
+Lederhose 		|Leather pants		|
+Schloss 		|Lock OR Castle/Palace	|
+wettbewerbsfaehig 	|Competitive		|
+Mehlhase 		|Flour bunny?		|
+Gebaeck			|Pastries		|
+Baeckerei 		|Backery		|
+Hund 			|Dog			|
+Doener 			|Doner?			|
+Apfelkuchen 		|Apple cake		|
+Schloss 		|Lock OR Castle/Palace	|
+Eltz			|Eltz (Noble family?)	|
+-------------------------------------------------
